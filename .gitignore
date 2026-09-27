@@ -1,0 +1,4 @@
+*.obj
+src/lex.yy.c
+__pycache__/
+*.pyc

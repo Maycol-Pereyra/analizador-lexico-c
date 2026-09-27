@@ -1,0 +1,4 @@
+int x = 5;
+int y = @x;
+char *s = "cadena sin cerrar
+int z $ = 3;
